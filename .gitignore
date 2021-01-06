@@ -1,2 +1,4 @@
 .idea/
 venv_santalucia/
+*/__pycache__/
+.coverage
